@@ -1,0 +1,102 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "World 2.tmx",
+    "expandedProjectPaths": [
+    ],
+    "exportAsImage.useCurrentScale": true,
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/Daffa/Code/electronjs/Game Name/src/images/tiles/World 1/Collision.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Daffa/Code/electronjs/Game Name/src/images/tiles/World 1/Floor.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Daffa/Code/electronjs/Game Name/src/images/tiles/World 1/Trees.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Daffa/Code/electronjs/Game Name/src/images/tiles/World 1/Trigger.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Daffa/Code/electronjs/Game Name/src/images/tiles/World 1/Wooden Bridge Tile.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Daffa/Code/electronjs/Game Name/src/images/tiles/World 1/World 1.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 18,
+            "viewCenter": {
+                "x": 554.5454545454545,
+                "y": 320.0909090909091
+            }
+        },
+        "Collision.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Floor Tile.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "House Tile.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Trees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Trigger.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Wooden Bridge Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "World 2.tmx": {
+            "expandedGroupLayers": [
+                18,
+                21
+            ],
+            "scale": 1.5,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 398.99999999999994,
+                "y": 197.66666666666663
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Daffa/Code/electronjs/Game Name/src/images/tiles/World 2",
+    "last.externalTilesetPath": "C:/Users/Daffa/Code/electronjs/Game Name/src/images/tiles/World 2",
+    "last.imagePath": "C:/Users/Daffa/Code/electronjs/Game Name/src/images/tiles/tile set/My Tile Set",
+    "map.height": 40,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 70,
+    "openFiles": [
+        "World 2.tmx",
+        "C:/Users/Daffa/Code/electronjs/Game Name/src/images/tiles/World 1/World 1.tmx"
+    ],
+    "project": "World 2.tiled-project",
+    "recentFiles": [
+        "C:/Users/Daffa/Code/electronjs/Game Name/src/images/tiles/World 1/World 1.tmx",
+        "World 2.tmx",
+        "Trigger.tsx",
+        "Collision.tsx",
+        "Wooden Bridge Tile.tsx",
+        "Trees.tsx",
+        "House Tile.tsx",
+        "Floor Tile.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

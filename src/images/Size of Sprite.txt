@@ -1,0 +1,3 @@
+- boyWalkingDown:
+Width: 52px
+Height: 21px

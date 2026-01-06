@@ -1,0 +1,46 @@
+.button {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    margin: 0 auto 10px;
+    padding: 15px 32px;
+    position: relative;
+    background-image: url("../images/Test1.png");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.screen {
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+}
+
+body {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    /* background-image: url("../images/Test2.png"); */
+}
+
+.fullscreen-div {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#canvas-game {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    image-rendering: pixelated;
+}

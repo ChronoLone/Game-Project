@@ -1,0 +1,27 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+    },
+    "last.imagePath": "C:/Users/Daffa/Code/electronjs/Press To Start Screen/src/images/Tiles/Pixel Plains Free Pack",
+    "map.height": 40,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 70,
+    "openFiles": [
+    ],
+    "project": "Testworld1.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
